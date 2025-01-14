@@ -34,7 +34,7 @@ A web application that users to fetch real-time weather details of their locatio
 ![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajdev1920&show_icons=true&theme=radical)
 
 ## Programming Languages Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsrivastav&layout=compact&show_icons=true&theme=radical#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajdev1920&layout=compact&show_icons=true&theme=radical#gh-dark-mode-only)
 
 ## Connect with Me
 
