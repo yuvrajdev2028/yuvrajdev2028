@@ -4,31 +4,23 @@ Welcome to my GitHub profile! I'm a passionate developer constantly striving to 
 
 ## About Me
 
-- 💻 I love coding and working on challenging projects.
-- 🌱 Currently learning advanced concepts in web development and machine learning.
-- 🔭 Working on a few open-source projects to give back to the community.
-- 📫 How to reach me: [yuvraj@example.com](mailto:yuvraj@example.com)
+- 💻 I love programming and working on challenging projects.
+- 🌱 Currently learning advanced concepts in web development.
 
 ## Technologies I Use
 
-- **Programming Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, AWS, Heroku
+- **Programming Languages:** JavaScript, C++, Python
+- **Web Development:** HTML, CSS, React, Node.js, TailwindCSS, Express
+- **Databases:** MongoDB
+- **Tools & Platforms:** Git, Netlify
 
 ## Projects
 
-### Project 1: Awesome Web App
-A web application that helps users to manage their tasks efficiently.
+### Project 1: Rambo
+A web application that helps volunteers send reports to NGOs about street dogs that might need help.
 
 - **Technologies:** React, Node.js, Express, MongoDB
-- **Repository:** [Awesome Web App](https://github.com/yuvrajdev1920/awesome-web-app)
-
-### Project 2: Machine Learning Model
-A machine learning model to predict housing prices.
-
-- **Technologies:** Python, scikit-learn, Pandas
-- **Repository:** [Housing Price Predictor](https://github.com/yuvrajdev1920/housing-price-predictor)
+- **Repository:** [Rambo](https://github.com/yuvrajdev1920/rambo)
 
 ## GitHub Stats
 
@@ -36,8 +28,7 @@ A machine learning model to predict housing prices.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yuvrajdev1920/)
-- [Twitter](https://twitter.com/yuvrajdev1920)
-- [Personal Blog](https://yuvrajdev1920.com)
+- [LinkedIn](https://www.linkedin.com/in/yuvraj-pratap-singh-b46432214/)
+- [Twitter](https://x.com/yuvraj_codes)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas. 😊
