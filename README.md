@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly striving to 
 - **Programming Languages:** JavaScript, C++, Python
 - **Web Development:** HTML, CSS, React, Node.js, TailwindCSS, Express
 - **Databases:** MongoDB
-- **Tools & Platforms:** Git, Netlify
+- **Tools & Platforms:** Git, Netlify, Postman
 
 ## Projects
 
