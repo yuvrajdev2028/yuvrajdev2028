@@ -20,13 +20,13 @@ Welcome to my GitHub profile! I'm a passionate developer constantly striving to 
 A web application that helps volunteers send reports to NGOs about street dogs that might need help.
 
 - **Technologies:** React, Node.js, Express, MongoDB
-- **Repository:** [Rambo](https://github.com/yuvrajdev1920/rambo)
+- **Repository:** [Rambo](https://github.com/yuvrajdev2028/rambo)
 
 ### Project 2: Weather App
 A web application that users to fetch real-time weather details of their location or any other location they might be interested in.
 
 - **Technologies:** HTML, TailwindCSS, JavaScript
-- **Repository:** [Weather App](https://github.com/yuvrajdev1920/weather-app)
+- **Repository:** [Weather App](https://github.com/yuvrajdev2028/weather-app)
 - **Live:** [Weather App](https://weather-app-yuvraj.netlify.app/)
 
 ## GitHub Stats
