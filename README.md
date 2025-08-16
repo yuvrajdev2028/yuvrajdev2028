@@ -22,12 +22,12 @@ A web application that helps volunteers send reports to NGOs about street dogs t
 - **Technologies:** React, Node.js, Express, MongoDB
 - **Repository:** [Rambo](https://github.com/yuvrajdev2028/rambo)
 
-### Project 2: Weather App
-A web application that users to fetch real-time weather details of their location or any other location they might be interested in.
+### Project 2: SmartCart
+A virtual shopping assistant designed to resolve customers' queries regarding various products in the inventory of an ecommerce store.
 
-- **Technologies:** HTML, TailwindCSS, JavaScript
-- **Repository:** [Weather App](https://github.com/yuvrajdev2028/weather-app)
-- **Live:** [Weather App](https://weather-app-yuvraj.netlify.app/)
+- **Technologies:** Python, LLM, LLaMa, Groq, RAG
+- **Repository:** [SmartCart](https://github.com/yuvrajdev2028/smartcart)
+
 
 ## GitHub Stats
 
